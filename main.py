@@ -10,7 +10,7 @@ from aiogram.filters import CommandStart, Command
 # Для работы с цветом и логотипами
 from PIL import Image, ImageDraw, ImageFont
 
-TOKEN = "8771239009:AAFPp10GU-9Zcfvle4wGDc7Z3bY2Wg3sV2Y"
+TOKEN = 
 
 router = Router()
 
