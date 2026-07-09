@@ -10,7 +10,10 @@ from aiogram.filters import CommandStart, Command
 # Для работы с цветом и логотипами
 from PIL import Image, ImageDraw, ImageFont
 
-TOKEN = 
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 router = Router()
 
